@@ -2,7 +2,7 @@
 
 # SMOTE for Handling Imbalanced Dataset
 
-This repository demonstrates how to handle **imbalanced datasets** using the **SMOTE (Synthetic Minority Over-sampling Technique)** algorithm. The notebook provides a practical walkthrough of resampling techniques with `imbalanced-learn` and `scikit-learn`.
+This repository demonstrates how to handle **imbalanced datasets** using the **SMOTE (Synthetic Minority Over-sampling Technique)** algorithm. The notebook provides a practical walkthrough of resampling techniques with imbalanced-learn and scikit-learn.
 
 ##  Overview
 
