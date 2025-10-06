@@ -4,7 +4,7 @@
 
 This repository demonstrates how to handle **imbalanced datasets** using the **SMOTE (Synthetic Minority Over-sampling Technique)** algorithm. The notebook provides a practical walkthrough of resampling techniques with imbalanced-learn and scikit-learn.
 
-##  Overview
+##  Overview 
 
 In many machine learning tasks, datasets are imbalanced — meaning one class significantly outnumbers the others. This imbalance can bias models toward the majority class.
 
