@@ -30,7 +30,7 @@ pip install pandas scikit-learn imbalanced-learn
    git clone https://github.com/alinapradhan/SMOTE_for_handling_imbalanced_dataset.git
    cd SMOTE_for_handling_imbalanced_dataset
    ```
-
+ 
 2. Open the Jupyter Notebook:
 
    ```bash
