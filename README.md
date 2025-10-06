@@ -66,7 +66,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ```
 
----
-
-Would you like me to include example output images or plots (e.g., class distribution before/after SMOTE) in the README as well? I can auto-generate markdown placeholders for those.
-```
